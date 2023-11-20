@@ -11,7 +11,7 @@ body {
   padding: 0;
   width: 100%;
   height: 100%;
-  background-color: lime;
+  background: radial-gradient(circle, rgb(95 82 97) 0%, rgba(253,29,29,1) 10%, rgb(48 66 255) 100%);
 }
 
 model-viewer {
